@@ -32,7 +32,7 @@ This repository contains a data analytics project from the [Belajar Analisis Dat
 1. Clone the repository
 
 ```bash
-git clone https://github.com/felixb177/analisisdata.git
+git clone https://github.com/momoe0712/data-analytics.git
 cd analisisdata
 ```
 
@@ -62,17 +62,17 @@ jupyter notebook
 ## 🧪 Result
 ### Peak Hours
 <p align="left">
-	<img src="./assets/peak_hours.png">
+	<img src="/assets/peak_hours.png">
 </p>
 
 ### Seasonal Rentals
 <p align="left">
-	<img src="./assets/season.png">
+	<img src="/assets/season.png">
 </p>
 
 ### 2011 vs 2012 Growth
 <p align="left">
-	<img src="./assets/growth.png">
+	<img src="/assets/growth.png">
 </p>
 
 ## ✨ Acknowledgements
